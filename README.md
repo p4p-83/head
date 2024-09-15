@@ -1,4 +1,4 @@
-# `gantry`
+# `head`
 
 > [!NOTE]
 > Refer to [`p4p.jamesnzl.xyz/learn`](https://p4p.jamesnzl.xyz/learn) for full details.
